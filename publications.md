@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 Go to section:
-* [SUTD: 2017-2020](#sutd)
-* [PhD: 2013-2016](#phd)
-* [MSc/BAppSc: 2009-2013](#kaust-nus)
+* [SUTD: 2017-2020](#B)
+* [PhD: 2013-2016](#C)
+* [MSc/BAppSc: 2009-2013](#D)
 
-## SUTD {#sutd}
+## SUTD [B] ##
 
 *These work were done during my independent fellowship at SUTD*
 
@@ -53,7 +53,7 @@ Go to section:
 
 *	San-Ni Hong, Yang Liu, **Richmond Lee**,‡ Zhiyong Jiang, "Asymmetric tandem conjugate addition–protonation to forge chiral secondary C–O bonds for quaternary carbon stereocenters at the nonadjacent β-position", Chem. Commun., 2017, 53, 7493-7496 [DOI: 10.1039/C7CC03700G](https://doi.org/10.1039/C7CC03700G).
 
-## PhD {#phd}
+## PhD [C] ##
 
 *These work were done during my PhD*
 

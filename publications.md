@@ -10,7 +10,7 @@ Go to section:
 * [MSc/BAppSc: 2009-2013](#kaust-nus)
 
 Go to section:
-* [heading1](#Head-1)
+* [heading1](#head-1)
 * [heading2](#head-2)
 
 ## SUTD

@@ -54,6 +54,7 @@ Go to section:
 *	San-Ni Hong, Yang Liu, **Richmond Lee**,‡ Zhiyong Jiang, "Asymmetric tandem conjugate addition–protonation to forge chiral secondary C–O bonds for quaternary carbon stereocenters at the nonadjacent β-position", Chem. Commun., 2017, 53, 7493-7496 [DOI: 10.1039/C7CC03700G](https://doi.org/10.1039/C7CC03700G).
 
 ## PhD
+
 *These work were done during my PhD*
 
 * Nan-Sook Hong, Dušan Petrović, **Richmond Lee**, Ganna Gryn’ova, Miha Purg, Jake Saunders, Paul Bauer, Paul D. Carr, Ching-Yeh Lin, Peter D. Mabbitt, William Zhang, Timothy Altamore, Chris Easton, Michelle L. Coote, Shina C. L. Kamerlin & Colin J. Jackson, “The evolution of multiple active site configurations in a designed enzyme”, Nature Communications, 2018, 9, 3900 [DOI: 10.1038/s41467-018-06305](https://doi.org/10.1038/s41467-018-06305-y).
@@ -85,6 +86,7 @@ Go to section:
 *	**Richmond Lee** & Michelle L. Coote, “New Insights into 1,2,4-Trioxolane Stability and the Crucial Role of Ozone in Promoting Polymer Degradation”, Phys. Chem. Chem. Phys., 2013, 15, 16428-16431 [DOI: 10.1039/C3CP52863D](https://doi.org/10.1039/C3CP52863D).
 
 ## KAUST-NUS
+
 *These work were done during my Masters-Bachelors period*
 
 * Kristin Munkerup, Michael Thulin, Davin Tan, Xiaozhi Lim, **Richmond Lee**, Kuo-Wei Huang, “Importance of thorough conformational analysis in modelling transition metal-mediated reactions: Case studies on pincer complexes containing phosphine groups”, J. Saudi Chem. Soc., 2019, 23, 1206-1218 [DOI: 10.1016/j.jscs.2019.07.005](https://dx.doi.org/10.1016/j.jscs.2019.07.005).

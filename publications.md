@@ -4,11 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 [SUTD: 2017-2020](#SUTD)
-
 [PhD: 2013-2016](#PhD)
-
 [PrePhD: 2009-2013](#KAUST-NUS)
----
+
 SUTD
 ---
 *These work were done during my independent fellowship at SUTD*

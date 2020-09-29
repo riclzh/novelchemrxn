@@ -6,7 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: "Lee Group @ UOW"
 excerpt: "The homepage of Novel Chemical Reactivity Lab"
 ---
 ![](/files/NCRL.png){:width="300px"}

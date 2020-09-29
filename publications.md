@@ -7,6 +7,7 @@ permalink: /publications/
 [[PhD: 2013-2016]](#PhD)
 [[MSc/BAppSc: 2009-2013]](#KAUST-NUS)
 
+---
 SUTD
 ---
 *These work were done during my independent fellowship at SUTD*

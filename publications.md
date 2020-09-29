@@ -16,9 +16,10 @@ SUTD
 *	Xia SongBao, Nguyen Do Doan, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Complementary C–H Functionalization Mode of Benzoylacetonitriles: Computer-Augmented Study of a Regio- and Stereoselective Synthesis of Functionalized Benzofulvenes”, Org. Lett., 2020, 22, 1, 46-51 [DOI: 10.1021/acs.orglett.9b03434](https://doi.org/10.1021/acs.orglett.9b03434).
 
 *	Xin Zhang, Jingyun Ren, Siu Min Tan, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "An Enantioconvergent Halogenophilic Nucleophilic Substitution (SN2X) Reaction", Science, 2019, 363, 400-404 [DOI: 10.1126/science.aau7797](https://doi.org/10.1126/science.aau7797). 
-   * This work was highlighted in organic-chemistry.org contributed by Douglass Taber: https://www.organic-chemistry.org/Highlights/2020/10February.shtm
-   * Paper highlighted by Synfacts 2019, 15, 0550 contributed by Benjamin List and Manuel J. Scharf 
-   * Media mention by Science Daily: https://www.sciencedaily.com/releases/2019/01/190128093218.htm 
+
+  * This work was highlighted in organic-chemistry.org contributed by Douglass Taber: https://www.organic-chemistry.org/Highlights/2020/10February.shtm
+  * Paper highlighted by Synfacts 2019, 15, 0550 contributed by Benjamin List and Manuel J. Scharf 
+  * Media mention by Science Daily: https://www.sciencedaily.com/releases/2019/01/190128093218.htm 
 
 * Fuyuan Li, Dong Tian, Yifan Fan, **Richmond Lee**, Gang Lu, Yanli Yin, Baokun Qiao, Xiaowei Zhao, Ziwei Xiao, Zhiyong Jiang, “Chiral acid-catalysed enantioselective C−H functionalization of toluene and its derivatives driven by visible light”, Nature Communications, 2019, 10, 1774 [DOI: 10.1038/s41467-019-09857-9](https://doi.org/10.1038/s41467-019-09857-9).
 
@@ -39,6 +40,7 @@ SUTD
 *	Tianju Shao, Yanli Yin, **Richmond Lee**, Xiaowei Zhao, Guobi Chai, Zhiyong Jiang, “Sequential Photoredox Catalysis for Cascade Aerobic Decarboxylative Povarov and Oxidative Dehydrogenation Reactions of N-Aryl α-Amino Acids”, Adv. Synth. Catal., 2018, 360, 1754 [DOI: 10.1002/adsc.201800135](https://doi.org/10.1002/adsc.201800135). 
 
 *	Weidi Cao, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "Enantioselective 1,2-Anionotropic Rearrangement of Acylsilane through a Bisguanidinium Silicate Ion Pair", J. Am. Chem. Soc., 2018, 140, 1952−1955. [DOI: 10.1021/jacs.7b13056](https://doi.org/10.1021/jacs.7b13056).
+
   * Paper highlighted by Synfacts 2018, 14, 0427 contributed by Benjamin List and Yihang Li.
 
 *	Wei-Guo Jia, Shuo Ling, Hai-Ning Zhang, En-Hong Sheng, **Richmond Lee**, "Half-Sandwich Ruthenium Phenolate–Oxazoline Complexes: Experimental and Theoretical Studies in Catalytic Transfer Hydrogenation of Nitroarene", Organometallics, 2018, 37, 40−47 [DOI: 10.1021/acs.organomet.7b00721](https://doi.org/10.1021/acs.organomet.7b00721).

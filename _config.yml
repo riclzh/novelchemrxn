@@ -2,10 +2,9 @@ title: Lee Group @ UOW
 author:
   name: Richmond Lee
   email: richmond_lee@uow.edu.au
-  description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to Lee Group's Novel Chemical Reactivity Lab! 
+  description: Welcome to Lee Group's Novel Chemical Reactivity Lab! 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

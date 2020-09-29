@@ -1,20 +1,10 @@
 title: Lee Group @ UOW
-author:
-  name: Richmond Lee
-  email: richmond_lee@uow.edu.au
-  description: Welcome to Lee Group's Novel Chemical Reactivity Lab! 
-
-show_excerpts: true
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
 # Site Author
 author:
-  name             : "Lee Group @ UOW"
-  avatar           : "NCRL.png"
+  name             : Richmond Lee
+  email            : richmond_lee@uow.edu.au
+  description      : Lee Group @ UOW
   bio              : ""
   location         : "Wollongong, NSW, Australia"
   employer         :
@@ -48,6 +38,13 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+show_excerpts: true
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:

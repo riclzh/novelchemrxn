@@ -32,12 +32,12 @@ SUTD
 *	Jiangtao Li, Manman Kong, Baokun Qiao, **Richmond Lee**, Xiaowei Zhao, Zhiyong Jiang, “Formal enantioconvergent substitution of alkyl halides via catalytic asymmetric photoredox radical coupling”, Nature Communications, 2018, 9, 2445 [DOI: 10.1038/s41467-018-04885-3](https://doi.org/10.1038/s41467-018-04885-3).
 
 *	Xi-Yang Cui, Yicen Ge, Siu Min Tan, Huan Jiang, Davin Tan, Yunpeng Lu, **Richmond Lee**, Choon-Hong Tan, “(Guanidine)copper Complex-Catalyzed Enantioselective Dynamic Kinetic Allylic Alkynylation under Biphasic Condition”, J. Am. Chem. Soc., 2018, 140, 8448-8455 [DOI: 10.1021/jacs.7b12806](https://doi.org/10.1021/jacs.7b12806). 
-    * Paper highlighted by [Synfacts 2018, 14, 0949]((https://doi.org/10.1055/s-0037-1610579) contributed by Mark Lautens and Andrew Whyte.
+    * Paper highlighted by [Synfacts 2018, 14, 0949](https://doi.org/10.1055/s-0037-1610579) contributed by Mark Lautens and Andrew Whyte.
 
 *	Tianju Shao, Yanli Yin, **Richmond Lee**, Xiaowei Zhao, Guobi Chai, Zhiyong Jiang, “Sequential Photoredox Catalysis for Cascade Aerobic Decarboxylative Povarov and Oxidative Dehydrogenation Reactions of N-Aryl α-Amino Acids”, Adv. Synth. Catal., 2018, 360, 1754 [DOI: 10.1002/adsc.201800135](https://doi.org/10.1002/adsc.201800135). 
 
 *	Weidi Cao, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "Enantioselective 1,2-Anionotropic Rearrangement of Acylsilane through a Bisguanidinium Silicate Ion Pair", J. Am. Chem. Soc., 2018, 140, 1952−1955. [DOI: 10.1021/jacs.7b13056](https://doi.org/10.1021/jacs.7b13056).
-    * Paper highlighted by [Synfacts 2018, 14, 0427]((https://doi.org/10.1055/s-0037-1609370) contributed by Benjamin List and Yihang Li.
+    * Paper highlighted by [Synfacts 2018, 14, 0427](https://doi.org/10.1055/s-0037-1609370) contributed by Benjamin List and Yihang Li.
 
 *	Wei-Guo Jia, Shuo Ling, Hai-Ning Zhang, En-Hong Sheng, **Richmond Lee**, "Half-Sandwich Ruthenium Phenolate–Oxazoline Complexes: Experimental and Theoretical Studies in Catalytic Transfer Hydrogenation of Nitroarene", Organometallics, 2018, 37, 40−47 [DOI: 10.1021/acs.organomet.7b00721](https://doi.org/10.1021/acs.organomet.7b00721).
 

@@ -4,7 +4,6 @@ title: Lee Group @ UOW
 author:
   name             : Richmond Lee
   email            : richmond_lee@uow.edu.au
-  description      : &description "Lee Group @ UOW"
   bio              : ""
   location         : "Wollongong, NSW, Australia"
   employer         :
@@ -38,6 +37,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is the homepage of Lee Group
 
 show_excerpts: true
 

@@ -5,6 +5,7 @@ permalink: /gaussian_guide/
 ---
 
 # Table of contents
+
 Section|Go to|
 ---|---|
 Preamble|[link to](#preamble)|

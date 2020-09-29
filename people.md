@@ -3,6 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
+
 PI Richmond Lee's Bio
 ---
 ![Pic](/files/NCRL.png)

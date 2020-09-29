@@ -12,7 +12,8 @@ excerpt: "The homepage of Lee Group and Novel Chemical Reactivity Lab"
 author_profile: true
 ---
 <p align="center">
-  <img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">
+  ##<img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">
+  <img src="/files/NCRL.png">
 </p>
 
 About

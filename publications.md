@@ -139,8 +139,8 @@ Go to section:
 
 * **Richmond Lee**, Xiaozhi Lim, Tao Chen, Geok Kheng Tan, Choon-Hong Tan, Kuo-Wei Huang, “Selective Formation of Bicyclic Guanidinium Chloride Complexes: Implication of the Bifunctionality of Guanidines”, Tetrahedron Lett., 2009, 50, 1560-1562 [DOI: 10.1016/j.tetlet.2009.01.061](https://dx.doi.org/10.1016/j.tetlet.2009.01.061).
 
-##Head 1
+## Head 1
 blabla
 
-###Head 2 
+### Head 2 
 bbb

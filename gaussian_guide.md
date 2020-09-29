@@ -5,10 +5,10 @@ permalink: /gaussian_guide/
 ---
 
 # Table of contents
-|Section|Go to|
-|---|---|
-|Preamble|[go to](#preamble)|
-|Preparing Gaussian file|[go to](#preparing-gaussian-file)|
+Section|Go to|
+---|---|
+Preamble|[link to](#preamble)|
+Preparing Gaussian file|[link to](#preparing-gaussian-file)|
 
 ## Preamble
 

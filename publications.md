@@ -3,11 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-[link](#PhD)
-
+[SUTD: 2017-2020](#SUTD)
+[PhD: 2013-2016](#PhD)
+[PrePhD: 2009-2013](#KAUST-NUS)
 ---
-##SUTD
-
+SUTD
+---
 *These work were done during my independent fellowship at SUTD*
 
 * Jingyun Ren, Xu Ban, Xin Zhang, Siu Min Tan, **Richmond Lee**, Choon‐Hong Tan, “Kinetic and Dynamic Kinetic Resolution of Racemic Tertiary Bromides by Pentanidium‐Catalyzed Phase‐Transfer Azidation”, Angew. Chem. Int. Ed., 2020, 59, 9055-9058 [DOI: 10.1002/anie.202000138](https://doi.org/10.1002/anie.202000138).

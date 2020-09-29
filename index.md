@@ -5,11 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-#layout: home
-permalink: /
-title: "Welcome to Lee Group!"
-excerpt: "The homepage of Lee Group and Novel Chemical Reactivity Lab"
-author_profile: true
+layout: home
 ---
 <p align="center">
   ##<img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">

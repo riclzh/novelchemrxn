@@ -16,10 +16,10 @@ SUTD
 *	Xia SongBao, Nguyen Do Doan, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Complementary C–H Functionalization Mode of Benzoylacetonitriles: Computer-Augmented Study of a Regio- and Stereoselective Synthesis of Functionalized Benzofulvenes”, Org. Lett., 2020, 22, 1, 46-51 [DOI: 10.1021/acs.orglett.9b03434](https://doi.org/10.1021/acs.orglett.9b03434).
 
 *	Xin Zhang, Jingyun Ren, Siu Min Tan, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "An Enantioconvergent Halogenophilic Nucleophilic Substitution (SN2X) Reaction", Science, 2019, 363, 400-404 [DOI: 10.1126/science.aau7797](https://doi.org/10.1126/science.aau7797). 
-  ```- This work was highlighted in organic-chemistry.org contributed by Douglass Taber: https://www.organic-chemistry.org/Highlights/2020/10February.shtm.
-  - Paper highlighted by Synfacts 2019, 15, 0550 contributed by Benjamin List and Manuel J. Scharf. 
-  - Media mention by Science Daily: https://www.sciencedaily.com/releases/2019/01/190128093218.htm.``` 
-
+  * This work was highlighted in organic-chemistry.org contributed by Douglass Taber: https://www.organic-chemistry.org/Highlights/2020/10February.shtm.
+  * Paper highlighted by Synfacts 2019, 15, 0550 contributed by Benjamin List and Manuel J. Scharf. 
+  * Media mention by Science Daily: https://www.sciencedaily.com/releases/2019/01/190128093218.htm. 
+  
 * Fuyuan Li, Dong Tian, Yifan Fan, **Richmond Lee**, Gang Lu, Yanli Yin, Baokun Qiao, Xiaowei Zhao, Ziwei Xiao, Zhiyong Jiang, “Chiral acid-catalysed enantioselective C−H functionalization of toluene and its derivatives driven by visible light”, Nature Communications, 2019, 10, 1774 [DOI: 10.1038/s41467-019-09857-9](https://doi.org/10.1038/s41467-019-09857-9).
 
 * Wei-Guo Jia, Ming-Xia Cheng, Li-Li Gao, Siu Min Tan, Chao Wang, Xiaogang Liu, **Richmond Lee**, “A ruthenium bisoxazoline complex as a photoredox catalyst for nitro compound reduction under visible light”, Dalton Trans., 2019, 48, 9949-9953 [DOI: 10.1039/C9DT00428A](https://doi.org/10.1039/C9DT00428A).

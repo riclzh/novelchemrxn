@@ -6,10 +6,12 @@ permalink: /gaussian_guide/
 
 ## Table of contents
 
-Section|Go to|
+Content| |
 ---|---|
-Preamble|[link to](#preamble)|
-Preparing Gaussian file|[link to](#preparing-gaussian-file)|
+1|[Preamble](#preamble)|
+2|[Preparing Gaussian file](#preparing-gaussian-file)|
+
+[linux basic guide](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
 
 ### Preamble
 

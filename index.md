@@ -12,7 +12,7 @@ layout: home
   <img src="/files/NCRL.png">
 </p>
 
-![](/files/NCRL.png)
+![](/files/NCRL.png){:height="36px" width="36px"}
 
 About
 ---

@@ -5,6 +5,7 @@ permalink: /gaussian_guide/
 ---
 
 # Contents
+|   |   |
 |---|---|
 |dd|dd|
 

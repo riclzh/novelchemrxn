@@ -4,7 +4,7 @@ title: Lee Group @ UOW
 author:
   name             : Richmond Lee
   email            : richmond_lee@uow.edu.au
-  description      : Lee Group @ UOW
+  description      : &description "Lee Group @ UOW"
   bio              : ""
   location         : "Wollongong, NSW, Australia"
   employer         :

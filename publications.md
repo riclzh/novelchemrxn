@@ -7,7 +7,7 @@ permalink: /publications/
 Go to section:
 * [SUTD: 2017-2020](#sutd)
 * [PhD: 2013-2016](#phd)
-* [MSc/BAppSc: 2009-2013](#kaust-nus)
+* [MSc/BAppSc: 2009-2013](#kaust-&-nus)
 
 ## SUTD
 
@@ -85,7 +85,7 @@ Go to section:
 
 *	**Richmond Lee** & Michelle L. Coote, “New Insights into 1,2,4-Trioxolane Stability and the Crucial Role of Ozone in Promoting Polymer Degradation”, Phys. Chem. Chem. Phys., 2013, 15, 16428-16431 [DOI: 10.1039/C3CP52863D](https://doi.org/10.1039/C3CP52863D).
 
-## KAUST-NUS
+## KAUST & NUS
 
 *These work were done during my Masters-Bachelors period*
 

@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 Go to section:
-* [SUTD: 2017-2020](#B)
-* [PhD: 2013-2016](#C)
-* [MSc/BAppSc: 2009-2013](#D)
+* [SUTD: 2017-2020](#sutd)
+* [PhD: 2013-2016](#phd)
+* [MSc/BAppSc: 2009-2013](#kaust-nus)
 
-## SUTD [B] ##
+## SUTD 
 
 *These work were done during my independent fellowship at SUTD*
 
@@ -53,7 +53,7 @@ Go to section:
 
 *	San-Ni Hong, Yang Liu, **Richmond Lee**,‡ Zhiyong Jiang, "Asymmetric tandem conjugate addition–protonation to forge chiral secondary C–O bonds for quaternary carbon stereocenters at the nonadjacent β-position", Chem. Commun., 2017, 53, 7493-7496 [DOI: 10.1039/C7CC03700G](https://doi.org/10.1039/C7CC03700G).
 
-## PhD [C] ##
+## PhD 
 
 *These work were done during my PhD*
 
@@ -85,7 +85,7 @@ Go to section:
 
 *	**Richmond Lee** & Michelle L. Coote, “New Insights into 1,2,4-Trioxolane Stability and the Crucial Role of Ozone in Promoting Polymer Degradation”, Phys. Chem. Chem. Phys., 2013, 15, 16428-16431 [DOI: 10.1039/C3CP52863D](https://doi.org/10.1039/C3CP52863D).
 
-## KAUST & NUS {#kaust-nus}
+## KAUST-NUS
 
 *These work were done during my Masters-Bachelors period*
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gaussian guide
+title: "Gaussian guide"
 permalink: /gaussian_guide/
 ---
 

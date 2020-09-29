@@ -7,7 +7,7 @@ permalink: /publications/
 Go to section:
 * [SUTD: 2017-2020](#sutd)
 * [PhD: 2013-2016](#phd)
-* [MSc/BAppSc: 2009-2013](#kaust-nus)
+* [MSc/BAppSc: 2009-2013](#kaust&nus)
 
 ## SUTD
 

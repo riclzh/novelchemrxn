@@ -7,9 +7,6 @@ SUTD
 ---
 *These work were done during independent fellowship at SUTD*
 
-* 1111
-  * 2222
-
 * Jingyun Ren, Xu Ban, Xin Zhang, Siu Min Tan, **Richmond Lee**, Choon‐Hong Tan, “Kinetic and Dynamic Kinetic Resolution of Racemic Tertiary Bromides by Pentanidium‐Catalyzed Phase‐Transfer Azidation”, Angew. Chem. Int. Ed., 2020, 59, 9055-9058 [DOI: 10.1002/anie.202000138](https://doi.org/10.1002/anie.202000138).
 
 *	Kek Foo Chin, Xinyi Ye, Yongxin Li, **Richmond Lee**, Adil M. Kabylda, Dasheng Leow, Xin Zhang, Esther Cai Xia Ang, Choon-Hong Tan, “Bisguanidinium-Catalyzed Epoxidation of Allylic and Homoallylic Amines under Phase Transfer Conditions”, ACS Catalysis, 2020, 4, 2684-2691 [DOI: 10.1021/acscatal.9b04862](https://doi.org/10.1021/acscatal.9b04862).
@@ -19,7 +16,7 @@ SUTD
 *	Xia SongBao, Nguyen Do Doan, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Complementary C–H Functionalization Mode of Benzoylacetonitriles: Computer-Augmented Study of a Regio- and Stereoselective Synthesis of Functionalized Benzofulvenes”, Org. Lett., 2020, 22, 1, 46-51 [DOI: 10.1021/acs.orglett.9b03434](https://doi.org/10.1021/acs.orglett.9b03434).
 
 *	Xin Zhang, Jingyun Ren, Siu Min Tan, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "An Enantioconvergent Halogenophilic Nucleophilic Substitution (SN2X) Reaction", Science, 2019, 363, 400-404 [DOI: 10.1126/science.aau7797](https://doi.org/10.1126/science.aau7797). 
-
+* 111
   *  This work was highlighted in organic-chemistry.org contributed by Douglass Taber: https://www.organic-chemistry.org/Highlights/2020/10February.shtm.
   * Paper highlighted by Synfacts 2019, 15, 0550 contributed by Benjamin List and Manuel J. Scharf. 
   * Media mention by Science Daily: https://www.sciencedaily.com/releases/2019/01/190128093218.htm. 

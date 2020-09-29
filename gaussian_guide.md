@@ -4,9 +4,7 @@ title: "Gaussian guide"
 permalink: /gaussian_guide/
 ---
 
-## Table of contents
-
-Content| |
+Content|Section|
 ---|---|
 1|[Preamble](#preamble)|
 2|[Preparing Gaussian file](#preparing-gaussian-file)|

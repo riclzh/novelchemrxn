@@ -11,6 +11,44 @@ show_excerpts: true
 minima:
   date_format: "%b %-d, %Y"
 
+# Site Author
+author:
+  name             : "NCRL @ UOW"
+  avatar           : "NCRL.png"
+  bio              : ""
+  location         : "Wollongong, NSW, Australia"
+  employer         :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=richmond+lee"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=8GIIoBgAAAAJ&hl=en"
+  email            : "richmond_lee@uow.edu.au"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "riclzh"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0003-1264-4914"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : ""
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
   # generate social links in footer
   social_links:
     #twitter: jekyllrb

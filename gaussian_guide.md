@@ -4,17 +4,20 @@ title: "Gaussian guide"
 permalink: /gaussian_guide/
 ---
 
-Content|Section|
+Section|Content|
 ---|---|
 1|[Preamble](#preamble)|
 2|[Preparing Gaussian file](#preparing-gaussian-file)|
 
-[linux basic guide](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
-
 ### Preamble
+Install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
+For more information and useful basic commands on Unix: 
+* [Linux basic guide from NCI](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
+* [Linux basic guide from NSCC](https://help.nscc.sg/wp-content/uploads/2016/03/BasicLinuxTutorial-v0.1.pdf)
+* [Linux basic guide for Mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+
 
 This is script to run in Gadi:
-
 ```
 #!/bin/bash
 ## To submit, ./_g16 <filename> <time> <cpu> <mem> or put g16r2 in ~/bin/ folder

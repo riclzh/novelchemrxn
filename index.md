@@ -17,4 +17,4 @@ The **Novel Chemical Reactivity Lab** is led by Dr Richmond Lee, a synthetic/com
 Research focus
 ---
 * Employ computational chemistry to study catalytic processes, intersecting organic, organometallics and physical organic chemistry, and to gain insights into reaction mechanisms, and knowledge crucial to build reliable predictions to understand chemical reactivity that aid in development or discovery of new reactivity or reaction. 
-* Establish combined theory-experimental efforts to link key mechanistic insights to chemical reactivity and allowing this new knowledge to improve overall understanding of the catalytic system through rational computational chemical design.
+* Establish combined theory-experimental efforts to link key mechanistic insights to chemical reactivity and allowing this new knowledge to improve overall understanding of the catalytic system through rational computational chemical design and experimental validation.

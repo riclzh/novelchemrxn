@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 Go to section:
-* [SUTD: 2017-2020](#SUTD)
-* [PhD: 2013-2016](#PhD)
-* [MSc/BAppSc: 2009-2013](#KAUST-NUS)
+* [SUTD: 2017-2020](#sutd)
+* [PhD: 2013-2016](#phd)
+* [MSc/BAppSc: 2009-2013](#kaust-nus)
 
 Go to section:
-* [heading1](#Head_1)
-* [heading2](#head_2)
+* [heading1](#Head-1)
+* [heading2](#head-2)
 
 ## SUTD
 

@@ -8,7 +8,8 @@ SUTD
 *These work were done during independent fellowship at SUTD*
 
 * Jingyun Ren, Xu Ban, Xin Zhang, Siu Min Tan, **Richmond Lee**, Choon‐Hong Tan, “Kinetic and Dynamic Kinetic Resolution of Racemic Tertiary Bromides by Pentanidium‐Catalyzed Phase‐Transfer Azidation”, Angew. Chem. Int. Ed., 2020, 59, 9055-9058 [DOI: 10.1002/anie.202000138](https://doi.org/10.1002/anie.202000138).
-
+  * 222
+  
 *	Kek Foo Chin, Xinyi Ye, Yongxin Li, **Richmond Lee**, Adil M. Kabylda, Dasheng Leow, Xin Zhang, Esther Cai Xia Ang, Choon-Hong Tan, “Bisguanidinium-Catalyzed Epoxidation of Allylic and Homoallylic Amines under Phase Transfer Conditions”, ACS Catalysis, 2020, 4, 2684-2691 [DOI: 10.1021/acscatal.9b04862](https://doi.org/10.1021/acscatal.9b04862).
 
 *	Weijie Chi, Qingkai Qi, **Richmond Lee**, Zhaochao Xu, Xiaogang Liu, “A Unified Push–Pull Model for Understanding the Ring-Opening Mechanism of Rhodamine Dyes”, J. Chem. Phys. C, 2020, 124, 3793-3801 [DOI: 10.1021/acs.jpcc.9b11673](https://doi.org/10.1021/acs.jpcc.9b11673).

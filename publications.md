@@ -9,10 +9,6 @@ Go to section:
 * [PhD: 2013-2016](#phd)
 * [MSc/BAppSc: 2009-2013](#kaust-nus)
 
-Go to section:
-* [heading1](#head-1)
-* [heading2](#head-2)
-
 ## SUTD
 
 *These work were done during my independent fellowship at SUTD*
@@ -138,9 +134,3 @@ Go to section:
 * Zhiyong Jiang, Yuanhang Pan, Yujun Zhao, Ting Ma, **Richmond Lee**, Yuanyong Yang, Kuo-Wei Huang, Ming-Wah Wong, Choon-Hong Tan, “Synthesis of a Chiral Quaternary Carbon Center Bearing a Fluorine Atom: Enantio- and Diastereoselective Guanidine-Catalyzed Addition of Fluorocarbon Nucleophiles”, Angew. Chem. Int. Ed., 2009, 48, 3627-3631 [DOI: 10.1002/anie.200900964](https://dx.doi.org/10.1002/anie.200900964).
 
 * **Richmond Lee**, Xiaozhi Lim, Tao Chen, Geok Kheng Tan, Choon-Hong Tan, Kuo-Wei Huang, “Selective Formation of Bicyclic Guanidinium Chloride Complexes: Implication of the Bifunctionality of Guanidines”, Tetrahedron Lett., 2009, 50, 1560-1562 [DOI: 10.1016/j.tetlet.2009.01.061](https://dx.doi.org/10.1016/j.tetlet.2009.01.061).
-
-## Head 1
-blabla
-
-### Head 2 
-bbb

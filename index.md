@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-![](/files/NCRL.png){:width="250px"}
+![](/files/NCRL.png){:width="300px"}
 
 About
 ---

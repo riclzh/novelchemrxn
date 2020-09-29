@@ -7,10 +7,6 @@
 #
 layout: home
 ---
-<p align="center">
-  ##<img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">
-  <img src="/files/NCRL.png">
-</p>
 
 ![](/files/NCRL.png){:height="36px" width="36px"}
 

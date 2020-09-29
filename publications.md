@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+Go to section:
 * [[SUTD: 2017-2020]](#SUTD)
 * [[PhD: 2013-2016]](#PhD)
 * [[MSc/BAppSc: 2009-2013]](#KAUST-NUS)

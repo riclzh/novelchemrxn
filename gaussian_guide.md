@@ -72,27 +72,27 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ### Preparing Gaussian file
 1. You can use any molecular GUI available like GaussView (GV), [Iqmol](http://iqmol.org/), Spartan or even [Avogadro](https://avogadro.cc/) to construct your structure. Here I made propane with GV. 
-![propane_gv](/files/guide/propane_gv.png)
+![propane_gv](/files/guide/propane_gv.png){:width="150px"}
 
 2. Iqmol (IQ) is a free software and you can download from [here](http://iqmol.org/). It is available on both Windows or Mac. I made a benzene ring here. It is highly recommended that you read the guide for these programs too. 
-![propane_iq](/files/guide/propane_iq.png)
+![propane_iq](/files/guide/propane_iq.png){:width="150px"}
 
 3. Once done, save the file into format that can be read by GV, i.e. .xyz or .pdb formats if you are using IQ.
-![pdb_iq](/files/guide/pdb_iq.png)
+![pdb_iq](/files/guide/pdb_iq.png){:width="150px"}
 
 4. For.pdb files you will need to open using GV, export and save it as the gaussian input file format .gjf. To do a proper conversion from .pdb to .gjf it is a little complicated. To do so, once you’ve loaded bezene.pdb in GV, go to >Calculate>Gaussian Calculation Setup… 
-![pdb_gv](/files/guide/pdb_gv.png)
+![pdb_gv](/files/guide/pdb_gv.png){:width="150px"}
 
 5. In the Setup panel click on ‘General’ tab:
-![pdb_setup](/files/guide/pdb_setup.png)
+![pdb_setup](/files/guide/pdb_setup.png){:width="150px"}
 
 6. Untick the ‘Write Connectivity’ and ‘Write PBD Data’ options but keep the ‘Write Cartesians’. Then click on ‘Submit’, and save the file as .gjf. If it prompts you to Submit the job into Gaussian click ‘No’.
 
 ### Gaussian input
 1. Before sending the job to run in Gadi, you need to edit the benzene.gjf file with [Notepad++](https://notepad-plus-plus.org/). This editor is also useful for coding. You can use any editor tools you prefer. 
-2. You can see the xyz cartesian coordinates of the atoms. Another way of organising the atoms’ 3D information is the z-matrix format which we use to do PES scans.
+![raw_gjf](/files/guide/raw_gjf.png){:align="left" width= "150px"}
 
-![raw_gjf](/files/guide/raw_gjf.png) {:align="left" width= "250px"}
+2. You can see the xyz cartesian coordinates of the atoms above. Another way of organising the atoms’ 3D information is the z-matrix format which we use to do PES scans.
     *	Rename the %chk to benzene.chk (this is checkpoint file)
     *	Add %mem=32GB (to request 32 GB memory in a node)
     *	Add %nprocshared=16 (to request 16 cpus in a node)

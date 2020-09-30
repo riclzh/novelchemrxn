@@ -69,7 +69,7 @@ For more information on Gadi and useful basic commands on Linux:
 3. Copy and paste over the lines in benzne.gjf you saved in your editor to MobaXterm (just do a right click). Save and exit by ‘Ctrl-X’.
 ![nano_filled](/files/guide/nano_filled.png)
 
-4. Use the script ```_g16``` to run the benzene.gjf job. Or you can simply make one with ```nano```::
+4. Use the script ```_g16``` to run the benzene.gjf job. Or you can simply make one with ```nano```:
 ```
 #!/bin/bash
 ## To submit, ./_g16 <filename> <time> <cpu> <mem> 
@@ -127,5 +127,9 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 9. The job-hours depend on what kind of jobs you are running. Obviously, PES will usually be longer say 48 hours (which is the maximum run-time in Gadi). In this example, the benzene calculation takes only a few seconds! Note that the PBS will return a 4213261 which is the job ID. And if successful there will be an echo out of the job status. 
 ![job_submit](/files/guide/job_submit.png)
 
+## Checking job status
+1. You can check all jobs running by ```qstat -u <userid>```:
+2. Or you can directly ```qstat``` the jobid:
+3. Once the job is completed, there will be no more lines when you ```qstat```. When the job is being run, a benzene.log file is being created. If you ```tail benzene.log``` a completed log file you will see some quotes and a ‘Normal termination of Gaussian 16 t …’ line:
 
     

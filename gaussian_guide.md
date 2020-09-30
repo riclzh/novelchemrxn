@@ -14,8 +14,7 @@ Section|Content|
 6|[Viewing completed jobs](#viewing-completed-jobs)|
 7|[Potential energy surface](#potential-energy-surface)|
 8|[PES for dihedrals and 3D](#pes-for-dihedrals-and-3d)|
-9|abc|
-10|abc|
+
 ### Preamble
 1. This guide will serve to help you do simple DFT calculations with the [Gaussian software](http://gaussian.com/), a popular tool for quantum chemical calculations with the NCI Gadi system.
 2. To first access Gadi, you need to install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
@@ -80,6 +79,7 @@ Section|Content|
 ![nano_filled](/files/guide/nano_filled.png)
 
 4. Use the script ```_g16``` to run the benzene.gjf job. Or you can simply make one with ```nano```:
+
 ```
 #!/bin/bash
 ## To submit, ./_g16 <filename> <time> <cpu> <mem> 
@@ -130,6 +130,7 @@ qsub g16.sh
 
 echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 ``` 
+
 5. **It is important to ensure that the ```_g16``` file is executable by doing ```chmod +x _g16```.**
 6. You only need to do this once and executable files are green in MobaXterm. 
 7. To run the benzene.gjf job, you need to dispatch the job to a PBS Pro scheduler or normally what we do is to ```qsub``` but I’ve already added this command into the ```_g16``` script so not necessary to ```qsub```. You can look at the script’s code if you’re interested. I’ve set all the parameters to run the job using resources for a node but you can change them as you like for default.

@@ -5,7 +5,7 @@ permalink: /gaussian_guide/
 ---
 
 Section|Content|
----|---|
+---|-----------------------|
 1|[Preamble](#preamble)|
 2|[Preparing Gaussian file](#preparing-gaussian-file)|
 3|[Gaussian input](#gaussian-input)|

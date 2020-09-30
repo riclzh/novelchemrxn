@@ -209,6 +209,7 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 ![PES_DA](/files/guide/PES_DA.png)
 
 6. To do the 3D scan, the modredundant appended at the end of z-mat should be:
+
 ```
 z-mat
 <blank>

@@ -14,8 +14,8 @@ Section|Content|
 6|[Viewing completed jobs](#viewing-completed-jobs)|
 7|[Potential energy surface](#potential-energy-surface)|
 8|[PES for dihedrals and 3D](#pes-for-dihedrals-and-3d)|
-9||
-10||
+9|abc|
+10|abc|
 ### Preamble
 1. This guide will serve to help you do simple DFT calculations with the [Gaussian software](http://gaussian.com/), a popular tool for quantum chemical calculations with the NCI Gadi system.
 2. To first access Gadi, you need to install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 

@@ -5,7 +5,7 @@ permalink: /gaussian_guide/
 ---
 
 Section|Content|
----|-----------------------|
+---|---|
 1|[Preamble](#preamble)|
 2|[Preparing Gaussian file](#preparing-gaussian-file)|
 3|[Gaussian input](#gaussian-input)|
@@ -13,7 +13,10 @@ Section|Content|
 5|[Checking job status](#checking-job-status)|
 6|[Viewing completed jobs](#viewing-completed-jobs)|
 7|[Potential energy surface](#potential-energy-surface)|
-8|[PES for dihedrals and 3D](#pes-for-dihedrals-and-3d)|
+8|[PES for dihedrals and 3D](#pes-for-dihedrals-and-3d-scans)|
+9|[PES scan examples](#pes-scan-examples)|
+10|[TS structures](#ts-structures)|
+11|[Version or changes](#version-or-changes)
 
 ### Preamble
 1. This guide will serve to help you do simple DFT calculations with the [Gaussian software](http://gaussian.com/), a popular tool for quantum chemical calculations with the NCI Gadi system.
@@ -190,5 +193,57 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
     * The order of the atoms is important - 129 comes first as I want atom 129 and its connecting group of atoms to translate rather than atom 98 and its connecting group of atoms. You will see this once the job is run.
     * Finally, it is very important to leave a blank space or a few bank spaces after the command.
 
-## PES for dihedrals and 3D
+## PES for dihedrals and 3D scans
+1. Load the optimized structure in GV, and right click to then go to >Builder>Modify Dihedral:
+![PES_dihedral_modify](/files/guide/PES_dihedral_modify.png)
 
+2. Select atom 49 first, followed by 47, 11 and 12. After that a slider will appear. Fix atom 4 so that only the tosyl group will be rotated:
+![PES_dihedral_modify2](/files/guide/PES_dihedral_modify2.png)
+
+3. Rotating this dihedral 180o would result in the tosyl group being flipped out:
+![PES_dihedral_modify3](/files/guide/PES_dihedral_modify3.png)
+
+4. To do the dihedral scan, the modredundant parameters appended at the end of z-mat should be ```D 49 47 11 12 S 60 -3.0```. This meant by the end of step 60 the dihedral would have changed by 180 degress. Note that the step size decimal .0 is important otherwise there will be an error.
+
+5. In the case of [4+2] cycloaddition, 3D scans can be performed. However, 3D scans are very slow and long. A strategy to calculate [4+2] is to manipulate the bond distances between the C atoms and run the guess structure as TS. Here is an example of TS for Diel-Alders reaction I calculated. The bond distances between the C atoms (dotted lines) below are an average of about 2.3 Å. 
+![PES_DA](/files/guide/PES_DA.png)
+
+6. To do the 3D scan, the modredundant appended at the end of z-mat should be:
+```
+z-mat
+<blank>
+B ATOM1 ATOM2 S 8 0.1
+B ATOM3 ATOM4 S 8 0.1
+<blank>
+```
+Note that the number of scans here are 8 for each coordinate scan. In fact, there will be a total of 9\*9 or 81 steps! That is why the corresponding step size is large, i.e. 0.1 Å. Larger step sizes tend to give very ugly PES profiles, but it can give you a guess structure of the [4+2] structure from which you can optimize. Finally, it is recommended to reduce the size of the structure and use a small basis set, example B3LYP/6-31G(d), to do the scan.
+
+## PES scan examples
+1. To give you an example, I ran a 3D PES scan PES4-2.gjf for [4+2] between a simple ethylene and diene:
+![DA_notepad](/files/guide/DA_notepad.png)
+
+2. I decided that a step size of 0.125 and 8 steps for each coordinate should suffice. I am using a commonly used functional or theory which is B3LYP/6-31G(d) or 6-31G*. 
+3. After running the scan, below is what I got. As you can see the Data Plot gave a nice 3D plot. What is interesting is that the TS structure sits on a saddle-point:
+![DA_PES_3D](/files/guide/DA_PES_3D.png)
+
+4. Another example of a PES scan for Cu-catalyzed N-C bond cleavage I calculated. This is the kind of routine 2D PES scan commonly done for most calculations. After doing PES scan calculations, opening the .log file in GV and clicking Results>Scan… will pop up the Scan Plot which is a useful tool for us to visualize the energy surface. A typical ‘ideal’ PES should connect two minimum structures and the top of that ‘energy hill’ should be the TS. The first structure in step 1 of the scan is the minimum optimized earlier: 
+![PES_2D_1](/files/guide/PES_2D_1.png)
+
+5. At step 22 shown below is the top of the ‘energy hill’. But depending on the no. of steps in the scan, sometimes the hill can be non-ideal - it is good to still run the TS anyway. Correspondingly the gradient of TS at the top of hill should be close to zero (see below). This is also true for the minimum structure I started with which the gradient is close to zero.
+![PES_2D_2](/files/guide/PES_2D_2.png)
+
+6. At step 39, the gradient is converging back towards zero and I would definitely want to optimize that structure as a corresponding minimum which connects from the TS (see below):
+![PES_2D_3](/files/guide/PES_2D_3.png)
+
+## TS structures
+1. Now to run the TS, simply click on the PES scan plot and select your structure to save. Select the one with gradient closest to ‘zero’. For TS like minimum structures we are using the xyz or cartesian format, so do remember that ‘Write Cartesian’ should be checked:
+![TS_calc_save](/files/guide/TS_calc_save.png)
+
+2. Next, open the .gjf in editor and change the keyword route to ```opt=(ts,calcfc,noeigen,maxcyc=200) scf=maxcyc=200 freq```. Note that here I am using m11/def2svp as my functional/theory for the calculation here. For starters, you should stick to B3LYP/6-31G(d) or B3LYP/6-31G(d,p) as in the previous examples. Note that the ```%mem``` and ```nprocshared``` should be 8GB and 4 respectively for normal Gadi runs.
+![TScalc_notepad](/files/guide/TScalc_notepad.png)
+
+3. Once the .log has terminated normally, make sure that you have an optimized TS. Check under >Results>Vibrations and there is only one imaginary (negative) frequency appearing at Mode #1. Here the imaginary vibration is truly a N-C bond cleavage by visual inspection.
+![TScalc_vibration](/files/guide/TScalc_vibration.png)
+
+### Version or changes
+30 Sep 2020 Richmond 

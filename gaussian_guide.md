@@ -13,7 +13,7 @@ Section|Content|
 5|[Checking job status](#checking-job-status)|
 6|[Viewing completed jobs](#viewing-completed-jobs)|
 7|[Potential energy surface](#potential-energy-surface)|
-8|[PES for dihedrals and 3D](#pes-for-dihedrals-and-3d-scans)|
+8|[PES for dihedrals and 3D scans](#pes-for-dihedrals-and-3d-scans)|
 9|[PES scan examples](#pes-scan-examples)|
 10|[TS structures](#ts-structures)|
 11|[Version or changes](#version-or-changes)

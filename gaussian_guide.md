@@ -36,11 +36,9 @@ Section|Content|
 ![pdb_iq](/files/guide/pdb_iq.png)
 
 4. For.pdb files you will need to open using GV, export and save it as the gaussian input file format .gjf. To do a proper conversion from .pdb to .gjf it is a little complicated. To do so, once you’ve loaded bezene.pdb in GV, go to >Calculate>Gaussian Calculation Setup… 
-
 ![pdb_gv](/files/guide/pdb_gv.png)
 
 5. In the Setup panel click on ‘General’ tab:
-
 ![pdb_setup](/files/guide/pdb_setup.png)
 
 6. Untick the ‘Write Connectivity’ and ‘Write PBD Data’ options but keep the ‘Write Cartesians’. Then click on ‘Submit’, and save the file as .gjf. If it prompts you to Submit the job into Gaussian click ‘No’.
@@ -160,7 +158,7 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 ![calc_summary_panel](/files/guide/calc_summary_panel.png)
 
 4. To find the free energy of this structure, we add the EE + Thermal Free Energy Correction (fourth line from the last). If you’re looking at the enthalpy, then is EE + Thermal Enthalpy Correction. Note that all this are taken at 298.15 K. Since we know that G = H – TS, the entropy is just (H – G)/T. 
-5. More one final important thing to check is that the vibration frequencies (Results>Vibrations...) do not have imaginary values, i.e. all the values are positive for a minimum structure. Transition states have a value which is negative. Usually imaginary frequencies will show up as negative in Mode #1.
+5. More one final important thing to check is that the vibration frequencies (goto >Results>Vibrations...) do not have imaginary values, i.e. all the values are positive for a minimum structure. Transition states have a value which is negative. Usually imaginary frequencies will show up as negative in Mode #1.
 
 ## Potential energy surface
 1. Here I will show you the steps in running a PES scan to locate transition state (TS) structure and the corresponding minimum.

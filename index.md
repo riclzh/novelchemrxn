@@ -12,7 +12,7 @@ excerpt: "The homepage of Novel Chemical Reactivity Lab"
 
 About
 ---
-The **Novel Chemical Reactivity Lab** is led by Dr Richmond Lee, a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). 
+The **Novel Chemical Reactivity Lab** is led by Dr Richmond Lee, a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). He is hosted by the [Yu group](https://haiboyugroup.github.io/) and the [Hyland group](https://scholars.uow.edu.au/display/chris_hyland) in UOW.  
 
 Research focus
 ---

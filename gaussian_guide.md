@@ -23,7 +23,8 @@ Section|Content|
 ```scp yourfile userid@gadi.nci.org.au:/some/path/to/your/folder```
 5. From Gadi to your computer: 
 ```scp userid@gadi.nci.org.au:/some/path/to/your/folder/yourfile```
-6.. For more information on Gadi and useful basic commands on Linux: 
+
+6. For more information on Gadi and useful basic commands on Linux: 
     * [Getting started with NCI Gadi](https://opus.nci.org.au/display/Help/Raijin+User+Guide)
     * [Linux basic guide from NCI](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
     * [Linux basic guide from NSCC](https://help.nscc.sg/wp-content/uploads/2016/03/BasicLinuxTutorial-v0.1.pdf)

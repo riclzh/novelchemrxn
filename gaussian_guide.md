@@ -124,7 +124,7 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 6. You only need to do this once and executable files are green in MobaXterm. 
 7. To run the benzene.gjf job, you need to dispatch the job to a PBS Pro scheduler or normally what we do is to ```qsub``` but I’ve already added this command into the ```_g16``` script so not necessary to ```qsub```. You can look at the script’s code if you’re interested. I’ve set all the parameters to run the job using resources for a node but you can change them as you like for default.
 8. Finally to submit the job type in the directory where your file is: ```./_g16 benzene```. You’ll need to include the filename and time which I put as default of 24 hours. 
-9. The job-hours depend on what kind of jobs you are running. Obviously, PES will usually be longer say 48 hours (which is the maximum run-time in Gadi). In this example, the benzene calculation takes only a few seconds! Note that the PBS will return a 4213261 which is the job ID. And if successful there will be an echo out of the job status. 
+9. The job-hours depend on what kind of jobs you are running. Obviously, PES will usually be longer say 48 hours and you can submit by ```./_g16 <file_name> 48``` (which is the maximum run-time in Gadi). In this example, the benzene calculation takes only a few seconds! Note that the PBS will return a 4213261 which is the job ID. And if successful there will be an echo out of the job status. 
 ![job_submit](/files/guide/job_submit.png)
 
 ## Checking job status

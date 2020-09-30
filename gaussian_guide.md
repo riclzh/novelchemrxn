@@ -10,12 +10,15 @@ Section|Content|
 2|[Preparing Gaussian file](#preparing-gaussian-file)|
 
 ### Preamble
-Install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
-For more information on Gadi and useful basic commands on Linux: 
-* [Getting started with NCI Gadi](https://opus.nci.org.au/display/Help/Raijin+User+Guide)
-* [Linux basic guide from NCI](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
-* [Linux basic guide from NSCC](https://help.nscc.sg/wp-content/uploads/2016/03/BasicLinuxTutorial-v0.1.pdf)
-* [Linux basic guide for Mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+1. This guide will serve to help you do simple DFT calculations with the [Gaussian software](http://gaussian.com/), a popular tool for quantum chemical calculations with the NCI Gadi system.
+2. To first access Gadi, you need to install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
+3. The next is to acquire a File Transfer Protocol (FTP) client for downloading and uploading files into or from Gadi. I use WinSCP but for Mac there is [Filezilla](https://filezilla-project.org/) or [Cyberduck](https://cyberduck.io/). In Mac you can also use the Terminal (similar to Linux environment) to transfer files between your computer and NCI’s Gadi, [see tips here](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/). 
+4. Typically, the commands to transfer to Gadi: ```scp yourfile userid@gadi.nci.org.au:/some/path/to/your/folder```. From Gadi to your computer: ```scp userid@gadi.nci.org.au:/some/path/to/your/folder/yourfile```
+5. For more information on Gadi and useful basic commands on Linux: 
+    * [Getting started with NCI Gadi](https://opus.nci.org.au/display/Help/Raijin+User+Guide)
+    * [Linux basic guide from NCI](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
+    * [Linux basic guide from NSCC](https://help.nscc.sg/wp-content/uploads/2016/03/BasicLinuxTutorial-v0.1.pdf)
+    * [Linux basic guide for Mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 
 ### Preparing Gaussian file
 1. You can use any molecular GUI available like GaussView (GV), [Iqmol](http://iqmol.org/), Spartan or even [Avogadro](https://avogadro.cc/) to construct your structure. Here I made propane with GV. 
@@ -129,7 +132,15 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ## Checking job status
 1. You can check all jobs running by ```qstat -u <userid>```:
-2. Or you can directly ```qstat``` the jobid:
-3. Once the job is completed, there will be no more lines when you ```qstat```. When the job is being run, a benzene.log file is being created. If you ```tail benzene.log``` a completed log file you will see some quotes and a ‘Normal termination of Gaussian 16 t …’ line:
+![qstat](/files/guide/qstat.png)
+
+2. Or you can directly ```qstat``` the jobid by ```qstat -f ```.
+3. To stop the job you can ```qdel <job_id>```.
+4. Once the job is completed, there will be no more lines when you ```qstat```. When the job is being run, a benzene.log file is being created. If you ```tail benzene.log``` a completed log file you will see some quotes and a ‘Normal termination of Gaussian 16 t …’ line:
+![normal_termination](/files/guide/normal_termination.png)
+
+5. Transfer this file into your own computer harddisk using the FTP client.
+
+
 
     

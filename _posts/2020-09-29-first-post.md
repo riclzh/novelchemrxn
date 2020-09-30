@@ -4,6 +4,6 @@ title: "First post!"
 categories: misc
 ---
 
-## A
+## The webpage is alive!
 
-The
+This is the first post! 

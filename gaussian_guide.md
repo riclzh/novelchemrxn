@@ -64,10 +64,10 @@ For more information on Gadi and useful basic commands on Linux:
     * Your calculations will be placed in this project folder and whenever you run jobs wish to view them jobs you can CD: ```cd /g/data/zl12/<user_id>/<project_name>```
     * **Note: your project name or files must never have spaces or special chars between them like 'proj 1' or 'proj&1'. You should instead name them as 'proj_1' or simply 'proj1'**
 2. To edit a new file in the bash you can either use ```nano``` or ```vi```. Personally, I prefer ```nano```:
-![empty_nano](/files/guide/empty_nano.png)
+![nano_empty](/files/guide/nano_empty.png)
 
 3. Copy and paste over the lines in benzne.gjf you saved in your editor to MobaXterm (just do a right click). Save and exit by ‘Ctrl-X’.
-![filled_nano](/files/guide/filled_nano.png)
+![nano_filled](/files/guide/nano_filled.png)
 
 4. Use the script ```_g16``` to run the benzene.gjf job. Or you can simply make one with ```nano```::
 ```

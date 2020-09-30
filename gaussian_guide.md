@@ -141,6 +141,44 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 5. Transfer this file into your own computer harddisk using the FTP client.
 
+## Viewing completed jobs
+1. You can view the benzene.log with GV in the MobaXterm by typing ```gview benzene.log``` or alternatively if you have GV installed in your computer you can view it from there. But this is the view of the completed structure. Near the green button you see 3 of 3 which meant that this job took 3 steps to complete because our guess structure is very close to the electronically optimized one at B3LYP level of theory.
+![benzene_calc_done](/files/guide/benzene_calc_done.png)
 
+2. Click on the panel with the ‘Results’ tab to see the summary of the calculations. 
+![calc_summary](/files/guide/calc_summary.png)
 
-    
+3. Under the ‘Thermo’ tab, there will be some values we are interested in, i.e. the ‘Electronic Energy’, and ‘Thermal correction to Free Energy’. 
+![calc_summary_panel](/files/guide/calc_summary_panel.png)
+
+4. To find the free energy of this structure, we add the EE + Thermal Free Energy Correction (fourth line from the last). If you’re looking at the enthalpy, then is EE + Thermal Enthalpy Correction. Note that all this are taken at 298.15 K. Since we know that G = H – TS, the entropy is just (H – G)/T. 
+5. More one final important thing to check is that the vibration frequencies (Results>Vibrations...) do not have imaginary values, i.e. all the values are positive for a minimum structure. Transition states have a value which is negative. Usually imaginary frequencies will show up as negative in Mode #1.
+
+## Potential energy surface
+1. Here I will show you the steps in running a PES scan to locate transition state (TS) structure and the corresponding minimum.
+2. First I open an completed or optimized .log file in GV. This is a minimum structure of a Michael addition reaction and I am using the structure after the C-C bond is being formed, ie the Michael adduct. For the structure below we are going extend the two highlighted carbon atoms labelled 98 and 129 (select Label under View):
+![michael_cat](/files/guide/michael_cat.png)    
+
+3. Save the file as ‘PES-xxx.gjf’ and in the save option, remember to uncheck the ‘Write Cartesian’:
+![PESfile_save](/files/guide/PESfile_save.png)
+
+4. Load the ‘PES-xxx.gjf’ in notepad++:
+![PES_notepad](/files/guide/PES_notepad.png)
+
+5. You will find that the atom format is quite unlike the one previously used in calculating the benzene minimum structure which was in cartesian or xyz. The format here is z-matrix or z-mat and will be used primarily for PES. To format a PES .gjf file, there are several important edits required in the route as well as after the z-mat:
+![PES_notepad_zoom1](/files/guide/PES_notepad_zoom1.png)
+
+6. And at the end of the z-mat is the modredundant parameters:
+![PES_notepad_zoom2](/files/guide/PES_notepad_zoom2.png)
+
+7. Here are some of the important key-points:
+    * Check that the name of the ```%chk``` is correct. And there are no spaces or special chars.
+    * Add the option ‘modredundant’ and change to ```maxcyc=20``` in the ```opt``` or optimization keyword. There is no need for ```freq``` – it is  only required for optimization jobs.
+    * Edit the title to indicate that this is a PES job.
+    * After the tail end of z-mat add one blank space and key in the desired bond/angle/dihedral to manipulate. In this tutorial, the modredundant command ```B 129 98 S 60 0.024``` translates to a relaxed scan of the bond between atoms 129 and 98, scanning 60 steps and each step the distance to lengthened by 0.024 Å. Conversely, ```B 129 98 S 60 -0.024``` would result in the atoms 129 & 98 being brought closer.
+    * How do I determine how many steps to run? This is really based on guestimation, intuition and experience. But usually for TS structure dealing with C-C bond addition, I would expect the distance to be about 2.5 Å based on my experience. As the minimum C-C bond is about 1.4 Å, I would expect after 41 steps, it would have reached 2.5 Å and the TS structure. The step size of 0.024 will usually give us a nice PES profile (see section on PES scan example). However, sometimes I will run step size of even 0.05 to get a rough estimate to cut down on computational time and cost. The con is that the PES profile might not give a clear sign of TS. 
+    * The order of the atoms is important - 129 comes first as I want atom 129 and its connecting group of atoms to translate rather than atom 98 and its connecting group of atoms. You will see this once the job is run.
+    * Finally, it is very important to leave a blank space or a few bank spaces after the command.
+
+## PES for dihedrals and 3D
+

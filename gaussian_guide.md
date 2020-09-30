@@ -246,4 +246,4 @@ Note that the number of scans here are 8 for each coordinate scan. In fact, ther
 ![TScalc_vibration](/files/guide/TScalc_vibration.png)
 
 ### Version or changes
-30 Sep 2020 Richmond 
+First vers. published 30 Sep 2020 Richmond 

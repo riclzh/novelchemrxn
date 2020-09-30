@@ -86,17 +86,19 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 ### Gaussian input
 1. Before sending the job to run in Gadi, you need to edit the benzene.gjf file with [Notepad++](https://notepad-plus-plus.org/). This editor is also useful for coding. You can use any editor tools you prefer. 
 2. You can see the xyz cartesian coordinates of the atoms. Another way of organising the atoms’ 3D information is the z-matrix format which we use to do PES scans.
-![raw_gjf](/files/guide/raw_gjf.png)
-    1)	Rename the %chk to benzene.chk (this is checkpoint file)
-    2)	Add %mem=32GB (to request 32 GB memory in a node)
-    3)	Add %nprocshared=16 (to request 16 cpus in a node)
-    4)	Add the optimization for minimum structure optimization: 
+
+![raw_gjf](/files/guide/raw_gjf.png) {:align= "centre":width= "250px"}
+
+    *	Rename the %chk to benzene.chk (this is checkpoint file)
+    *	Add %mem=32GB (to request 32 GB memory in a node)
+    *	Add %nprocshared=16 (to request 16 cpus in a node)
+    *	Add the optimization for minimum structure optimization: 
     ```# b3lyp/6-31G* opt=(maxcyc=200) scf=(maxcyc=200) freq```
-    5)	If you are calculating a transition state: 
+    *	If you are calculating a transition state: 
     ```# b3lyp/6-31G* opt=(ts,calcfc,noeigen,maxcyc=200) scf=(maxcyc=200) freq```
-    6)	If you’re doing potential energy surface (PES) the atoms need to be in z-matrix format
-    7)	Insert comments or the job title. **Important: note the one black space after the keywords and one blank space after**
-    8)	0 1 – refers to 0 as the charge (this is a neutral structure) and 1 as the spin multiplicity 
-    9)	After the xyz leave 2 blank lines - **this is important!**
+    *	If you’re doing potential energy surface (PES) the atoms need to be in z-matrix format
+    *	Insert comments or the job title. **Important: note the one black space after the keywords and one blank space after**
+    *	0 1 – refers to 0 as the charge (this is a neutral structure) and 1 as the spin multiplicity 
+    *	After the xyz leave 2 blank lines - **this is important!**
   
     

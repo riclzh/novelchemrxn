@@ -72,13 +72,13 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ### Preparing Gaussian file
 1. You can use any molecular GUI available like GaussView (GV), [Iqmol](http://iqmol.org/), Spartan or even [Avogadro](https://avogadro.cc/) to construct your structure. Here I made propane with GV. 
-![propane_gv](/files/guide/propane_gv.png){:width="150px"}
+![propane_gv](/files/guide/propane_gv.png){:width="300px"}
 
 2. Iqmol (IQ) is a free software and you can download from [here](http://iqmol.org/). It is available on both Windows or Mac. I made a benzene ring here. It is highly recommended that you read the guide for these programs too. 
-![propane_iq](/files/guide/propane_iq.png){:width="150px"}
+![propane_iq](/files/guide/propane_iq.png){:width="300px"}
 
 3. Once done, save the file into format that can be read by GV, i.e. .xyz or .pdb formats if you are using IQ.
-![pdb_iq](/files/guide/pdb_iq.png){:width="150px"}
+![pdb_iq](/files/guide/pdb_iq.png){:width="300px"}
 
 4. For.pdb files you will need to open using GV, export and save it as the gaussian input file format .gjf. To do a proper conversion from .pdb to .gjf it is a little complicated. To do so, once you’ve loaded bezene.pdb in GV, go to >Calculate>Gaussian Calculation Setup… 
 ![pdb_gv](/files/guide/pdb_gv.png){:width="150px"}
@@ -90,7 +90,7 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ### Gaussian input
 1. Before sending the job to run in Gadi, you need to edit the benzene.gjf file with [Notepad++](https://notepad-plus-plus.org/). This editor is also useful for coding. You can use any editor tools you prefer. 
-![raw_gjf](/files/guide/raw_gjf.png){:align="left" width= "150px"}
+![raw_gjf](/files/guide/raw_gjf.png){:width= "300px"}
 
 2. You can see the xyz cartesian coordinates of the atoms above. Another way of organising the atoms’ 3D information is the z-matrix format which we use to do PES scans.
     *	Rename the %chk to benzene.chk (this is checkpoint file)

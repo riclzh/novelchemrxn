@@ -11,7 +11,8 @@ Section|Content|
 
 ### Preamble
 Install your preferred remote access tool and for me personally I use [MobaXterm](https://mobaxterm.mobatek.net/) on Windows. I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
-For more information and useful basic commands on Unix: 
+For more information on Gadi and useful basic commands on Linux: 
+* [Getting started with NCI Gadi](https://opus.nci.org.au/display/Help/Raijin+User+Guide)
 * [Linux basic guide from NCI](https://opus.nci.org.au/display/Help/Linux+Command+Quick+Reference+Guide)
 * [Linux basic guide from NSCC](https://help.nscc.sg/wp-content/uploads/2016/03/BasicLinuxTutorial-v0.1.pdf)
 * [Linux basic guide for Mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
@@ -71,4 +72,4 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ### Preparing Gaussian file
 You can use any molecular GUI available like GaussView (GV), [Iqmol](http://iqmol.org/), Spartan or even [Avogadro](https://avogadro.cc/) to construct your structure. Here I made propane with GV.
-![propane](/files/guide/propane.png)
+![propane](/files/guide/propane_gv.png)

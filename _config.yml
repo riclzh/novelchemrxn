@@ -50,6 +50,7 @@ minima:
 
   # generate social links in footer
   social_links:
+    googlescholar    : "https://scholar.google.com.sg/citations?user=8GIIoBgAAAAJ&hl=en"
     #twitter: jekyllrb
     #github:  jekyll
     # devto: jekyll

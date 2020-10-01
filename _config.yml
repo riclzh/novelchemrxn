@@ -8,35 +8,7 @@ author:
   location         : "Wollongong, NSW, Australia"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=richmond+lee"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=8GIIoBgAAAAJ&hl=en"
   email            : "richmond_lee@uow.edu.au"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "riclzh"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1264-4914"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : ""
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 description: > # this means to ignore newlines until "show_excerpts:"
   This is the homepage of Lee Group
@@ -51,6 +23,7 @@ minima:
   # generate social links in footer
   social_links:
     googlescholar    : "https://scholar.google.com.sg/citations?user=8GIIoBgAAAAJ&hl=en"
+    orcid            : "https://orcid.org/0000-0003-1264-4914"
     #twitter: jekyllrb
     #github:  jekyll
     # devto: jekyll

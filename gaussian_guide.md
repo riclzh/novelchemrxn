@@ -252,7 +252,10 @@ Note that the number of scans here are 8 for each coordinate scan. In fact, ther
 1. Now to run the TS, simply click on the PES scan plot and select your structure to save. Select the one with gradient closest to ‘zero’. For TS like minimum structures we are using the xyz or cartesian format, so do remember that ‘Write Cartesian’ should be checked:
 ![TS_calc_save](/files/guide/TS_calc_save.png)
 
-2. Next, open the .gjf in editor and change the keyword route to ```opt=(ts,calcfc,noeigen,maxcyc=200) scf=maxcyc=200 freq```. Note that here I am using m11/def2svp as my functional/theory for the calculation here. For starters, you should stick to B3LYP/6-31G(d) or B3LYP/6-31G(d,p) as in the previous examples. Note that the ```%mem``` and ```nprocshared``` should be 8GB and 4 respectively for normal Gadi runs.
+2. Next, open the .gjf in editor and change the keyword route to: 
+
+```opt=(ts,calcfc,noeigen,maxcyc=200) scf=maxcyc=200 freq``` 
+Note that here I am using m11/def2svp as my functional/theory for the calculation here. For starters, you should stick to B3LYP/6-31G(d) or B3LYP/6-31G(d,p) as in the previous examples. Note that the ```%mem``` and ```nprocshared``` should be 8GB and 4 respectively for normal Gadi runs.
 ![TScalc_notepad](/files/guide/TScalc_notepad.png)
 
 3. Once the .log has terminated normally, make sure that you have an optimized TS. Check under >Results>Vibrations and there is only one imaginary (negative) frequency appearing at Mode #1. Here the imaginary vibration is truly a N-C bond cleavage by visual inspection.

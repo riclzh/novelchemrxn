@@ -61,7 +61,7 @@ header_pages:
  - about.md
  - people.md
  - publications.md
- - gaussianguide.md
+ - gaussian_guide.md
 
 # Build settings
 theme: minima

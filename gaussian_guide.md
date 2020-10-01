@@ -73,11 +73,21 @@ Section|Content|
 
 ### Submitting job
 1. If this is your first time setting up in Gadi, you will need to setup your own folder:
-    * Change directory (CD) to zl12 project folder: ```cd /g/data/zl12/```
-    * Make your own directory: ```mkdir <user_id>```
-    * CD to your directory: ```cd <nci_id>```
-    * Make your own project folder: ```mkdir <project_name>```
-    * Your calculations will be placed in this project folder and whenever you run jobs wish to view them jobs you can CD: ```cd /g/data/zl12/<user_id>/<project_name>```
+    * Change directory (CD) to zl12 project folder: 
+    
+    ```cd /g/data/zl12/```
+    * Make your own directory: 
+    
+    ```mkdir <user_id>```
+    * CD to your directory: 
+    
+    ```cd <nci_id>```
+    * Make your own project folder: 
+    
+    ```mkdir <project_name>```
+    * Your calculations will be placed in this project folder and whenever you run jobs wish to view them jobs you can CD: 
+    
+    ```cd /g/data/zl12/<user_id>/<project_name>```
     * **Note: your project name or files must never have spaces or special chars between them like 'proj 1' or 'proj&1'. You should instead name them as 'proj_1' or simply 'proj1'**
 2. To edit a new file in the bash you can either use ```nano``` or ```vi```. Personally, I prefer ```nano```:
 ![nano_empty](/files/guide/nano_empty.png)
@@ -225,7 +235,7 @@ Note that the number of scans here are 8 for each coordinate scan. In fact, ther
 1. To give you an example, I ran a 3D PES scan PES4-2.gjf for [4+2] between a simple ethylene and diene:
 ![DA_notepad](/files/guide/DA_notepad.png)
 
-2. I decided that a step size of 0.125 and 8 steps for each coordinate should suffice. I am using a commonly used functional or theory which is B3LYP/6-31G(d) or 6-31G*. 
+2. I decided that a step size of 0.125 and 8 steps for each coordinate should suffice. I am using a commonly used functional or theory which is B3LYP/6-31G(d) or B3LYP/6-31G*. 
 3. After running the scan, below is what I got. As you can see the Data Plot gave a nice 3D plot. What is interesting is that the TS structure sits on a saddle-point:
 ![DA_PES_3D](/files/guide/DA_PES_3D.png)
 

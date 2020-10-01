@@ -22,7 +22,7 @@ Section|Content|
 1. This guide will serve to help you do simple DFT calculations with the [Gaussian software](http://gaussian.com/), a popular tool for quantum chemical calculations, in the NCI Gadi system.
 2. To first access Gadi, you need to install your preferred remote access tool. [MobaXterm](https://mobaxterm.mobatek.net/) is great on Windows and I think it should be installable for Mac. MobaXterm is quite powerful as it can access GUI software like GaussView or VMD from Gadi using Xterm. If you are using Mac you can remotely access using the [terminal](https://www.booleanworld.com/access-mac-ssh-remote-login/). 
 3. The next step is to acquire a File Transfer Protocol (FTP) client for downloading and uploading files into or from Gadi. I use [WinSCP](https://winscp.net/eng/index.php) and for Mac there is [Filezilla](https://filezilla-project.org/) or [Cyberduck](https://cyberduck.io/). In Mac you can also use the Terminal (similar to Linux environment) to transfer files between your computer and NCI’s Gadi, [see tips here](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/). 
-4. Typically, the commands to transfer to Gadi:
+4. The command to transfer to Gadi:
 ```scp yourfile userid@gadi.nci.org.au:/somepath/folder```
 5. From Gadi to your computer: 
 ```scp userid@gadi.nci.org.au:/somepath/folder/yourfile```

@@ -253,7 +253,6 @@ Note that the number of scans here are 8 for each coordinate scan. In fact, ther
 ![TS_calc_save](/files/guide/TS_calc_save.png)
 
 2. Next, open the .gjf in editor and change the keyword route to: 
-
 ```# m11/def2svp opt=(ts,calcfc,noeigen,maxcyc=200) scf=maxcyc=200 freq``` 
 3. Note that here I am using m11/def2svp as my functional/theory for the calculation here. For starters, you should stick to B3LYP/6-31G(d) as in the previous examples. Note that the ```%mem``` and ```nprocshared``` should be 8GB and 4 respectively for normal Gadi runs:
 ![TScalc_notepad](/files/guide/TScalc_notepad.png)

@@ -60,8 +60,10 @@ Section|Content|
     *	Add ```%mem=8GB``` (To request 8GB memory in a node. This is different from the image.)
     *	Add ```%nprocshared=4``` (to request 4 cpus in a node. This is different from the image.)
     *	Add the optimization for minimum structure optimization: 
+    
     ```# b3lyp/6-31G* opt=(maxcyc=200) scf=(maxcyc=200) freq```
     *	If you are calculating a transition state: 
+    
     ```# b3lyp/6-31G* opt=(ts,calcfc,noeigen,maxcyc=200) scf=(maxcyc=200) freq```
     *	If you’re doing potential energy surface (PES) the atoms need to be in z-matrix format
     *	Insert comments or the job title. **Important: note the one black space after the keywords and one blank space after**

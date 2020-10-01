@@ -181,7 +181,7 @@ echo "   -> Job [$INPUT.gjf] submitted! $CPU cpus; $MEM mem; running $TIME hrs"
 
 ## Potential energy surface
 1. Here I will show you the steps in running a PES scan to locate transition state (TS) structure and the corresponding minimum.
-2. First I open an completed or optimized .log file in GV. This is a minimum structure of a Michael addition reaction and I am using the structure after the C-C bond is being formed, ie the Michael adduct. For the structure below we are going extend the two highlighted carbon atoms labelled 98 and 129 (select Label under View):
+2. First I open a completed or optimized .log file in GV. This is a minimum structure of a Michael addition reaction run previously and I am using the structure after the C-C bond is being formed, ie the Michael adduct. For the structure below we are going extend the two highlighted carbon atoms labelled 98 and 129 (select Label under View):
 ![michael_cat](/files/guide/michael_cat.png)    
 
 3. Save the file as ‘PES-xxx.gjf’ and in the save option, remember to uncheck the ‘Write Cartesian’:

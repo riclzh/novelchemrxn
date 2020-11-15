@@ -5,9 +5,15 @@ permalink: /publications/
 ---
 
 Go to section:
+* [UOW: 2020-](#uow)
 * [SUTD: 2017-2020](#sutd)
 * [PhD: 2013-2016](#phd)
 * [MSc/BAppSc: 2009-2013](#kaust-nus)
+
+## UOW
+
+* Wenchao Chen, Esther Cai Xia Ang, Siu Min Tan, Zhijie Chua, Jingyun Ren, Ziqi Yang, Bo Teng, **Richmond Lee**, Haihua Lu, Choon-Hong Tan, "Enantioselective Addition-Alkylation of α,β-Unsaturated Carbonyls via Bisguanidinium Silicate Ion Pair Catalysis", J. Am. Chem. Soc., 2020, 142, 19065–19070 [DOI: 10.1021/jacs.0c00183](https://doi.org/10.1021/jacs.0c00183). Paper [here](x).
+
 
 ## SUTD 
 

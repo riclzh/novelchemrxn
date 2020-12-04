@@ -61,6 +61,7 @@ header_pages:
  - people.md
  - publications.md
  - gaussian_guide.md
+ - xtb_guide.md
 
 # Build settings
 theme: minima

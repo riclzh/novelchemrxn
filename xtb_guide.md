@@ -12,9 +12,10 @@ Section|Content|
 
 ### Prep
 1. This guide will serve to help you do [XTB](https://xtb-docs.readthedocs.io/en/latest/gfnff.html) calculations linked to [Gaussian software](http://gaussian.com/).
-2. A script (xtb.sh) and two executables (genxyz and extderi) must be downloaded from [gau_xtb](http://sobereva.com/soft/gau_xtb/). The code is written by Dr [Tian Lu](http://sobereva.com/Tian_Lu.html) with many other interesting programs. 
-3. Download the precompiled version of [XTB](https://github.com/grimme-lab/xtb/releases/tag/v6.3.3) and transfer the compressed file into Gadi.
-4. After ```tar xf xtb-200917.tar.xz``` to extract the tarball you will find that it should contain ```bin``` and ````share```.
+2. A script (xtb.sh) and two executables (genxyz and extderi) must be downloaded from [gau_xtb](http://sobereva.com/soft/gau_xtb/). The code is written by Dr [Tian Lu](http://sobereva.com/Tian_Lu.html). He has made many other interesting computational chemistry programs too.
+3. The gau_xtb.zip file can be unzipped and transferred into Gadi. Remember to ```chmod +x files``` in order to make the executable files work.
+3. Next download the precompiled version of [XTB](https://github.com/grimme-lab/xtb/releases/tag/v6.3.3) and transfer the compressed file into Gadi.
+4. After ```tar xf xtb-200917.tar.xz``` to extract the tarball you will find that it should contain ```bin``` and ```share``` - if it doesn't you have downloaded the source files which you will need to compile yourself.
 5. In home ```/~``` directory ```nano .bashrc``` and add these lines:
 ```
 export PATH=$PATH:~/xtb-6.3.3/bin

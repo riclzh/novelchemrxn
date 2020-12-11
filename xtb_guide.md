@@ -54,5 +54,6 @@ Mol opt by gfn2-xtb
 #p freq external='./xtb.sh' geom=allcheck
 <blank space>
 ```
+
 3. For TS and PES, change ```opt=nomicro``` to ```opt=(ts,calcfc,noeigen,nomicro)``` or ```opt=(modredundant,maxcyc=20,nomicro)```.
 

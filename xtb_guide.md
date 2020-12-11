@@ -47,7 +47,7 @@ Mol opt by gfn2-xtb
 
 0 1
  (xyz cartesian)
-<blank space>
+
 --link1--
 %chk=mol.chk
 %nprocshared=4

@@ -36,6 +36,7 @@ ulimit -s unlimited
 ### Running
 1. The script ```xtb.sh```, and executable files ```extderi``` and ```genxyz``` have to be in the working folder. 
 2. In the keywords route the input gjf should have ```external='./xtb.sh'``` included. If frequency job is required, use the gaussian ```link1``` keyword. A typical optimization job:
+
 ```
 %chk=mol.chk
 %nprocshared=4

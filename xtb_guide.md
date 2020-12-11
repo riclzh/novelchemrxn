@@ -34,5 +34,25 @@ ulimit -s unlimited
 4. You can consider using this method to calculate and locate minimum of transition state structures first. It will give a good guess of the electronic structure before optimizing further with DFT. It is linked by gau_xtb program with Gaussian.
 
 ### Running
+1. The script ```xtb.sh```, and executable files ```extderi``` and ```genxyz``` have to be in the working folder. 
+2. In the keywords route the input gjf should have ```external='./xtb.sh'``` included. If frequency job is required, use the gaussian ```link1``` keyword. A typical optimization job:
+```
+%chk=mol.chk
+%nprocshared=4
+%mem=8GB
+#p opt=nomicro external='./xtb.sh'
 
+Mol opt by gfn2-xtb
+
+0 1
+ (xyz cartesian)
+<blank space>
+--link1--
+%chk=mol.chk
+%nprocshared=4
+%mem=8GB
+#p freq external='./xtb.sh' geom=allcheck
+<blank space>
+```
+3. For TS and PES, change ```opt=nomicro``` to ```opt=(ts,calcfc,noeigen,nomicro)``` or ```opt=(modredundant,maxcyc=20,nomicro)```.
 

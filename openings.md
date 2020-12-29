@@ -4,10 +4,10 @@ title: Openings
 permalink: /openings/
 ---
 
-Openings
+Current Openings 
 ---
 
-**Two** PhD positions with three-year funding each are available in the [laboratory of Dr Richmond Lee](https://riclzh.github.io/novelchemrxn/) at the University of Wollongong beginning 2021 as follows:
+**Two** PhD positions with three-year funding each are available in the [laboratory of Dr Richmond Lee](https://scholars.uow.edu.au/display/richmond_lee) at the University of Wollongong beginning 2021 as follows:
 
 Computational and experimental design and development of new catalytic halogenophilic reactions. This involves using state-of-the-art computational chemistry to screen, probe and understand the chemical reactivity of the catalytic reactions. After which experiments will be performed in the synthetic lab of A/Prof. Chris Hyland to verify the model. 
 

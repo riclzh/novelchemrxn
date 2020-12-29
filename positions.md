@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Positions
-permalink: /positions/
+title: Openings
+permalink: /openings/
 ---
 
 Openings

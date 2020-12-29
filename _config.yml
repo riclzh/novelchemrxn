@@ -62,7 +62,7 @@ header_pages:
  - publications.md
  - gaussian_guide.md
  - xtb_guide.md
- - positions.md
+ - openings.md
 
 # Build settings
 theme: minima

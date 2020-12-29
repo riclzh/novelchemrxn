@@ -4,7 +4,8 @@ title: Positions
 permalink: /positions/
 ---
 
-##Dec 2020
+Open Positions
+---
 
 Two PhD positions with three-year funding each are available in the laboratory of Dr Richmond Lee at the University of Wollongong beginning 2021 as follows:
 

@@ -15,4 +15,4 @@ Two PhD positions with three-year funding each are available in the [laboratory 
 
 The successful applicant(s) will enter UOW as HDR student with an anticipated start date in 2021. Candidates with previous experience in organic chemistry and catalysis is desirable and having computational experience in Unix or any computational chemistry or molecular simulations software would be an added advantage. 
 
-Please email a cover letter explaining your interest in the position, qualifications, details of 2 academic referees and a CV to [Dr Lee](richlee@uow.edu.au)
+Please email a cover letter explaining your interest in the position, qualifications, details of 2 academic referees and a CV to Dr Lee: richlee@uow.edu.au 

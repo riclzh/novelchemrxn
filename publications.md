@@ -36,6 +36,8 @@ Go to section:
 
 * Wei-Guo Jia, Ming-Xia Cheng, Li-Li Gao, Siu Min Tan, Chao Wang, Xiaogang Liu, **Richmond Lee**, “A ruthenium bisoxazoline complex as a photoredox catalyst for nitro compound reduction under visible light”, Dalton Trans., 2019, 48, 9949-9953 [DOI: 10.1039/C9DT00428A](https://doi.org/10.1039/C9DT00428A).
 
+* Weijie Chi, Qinglong Qiao, **Richmond Lee**,  Wenjuan Liu  Yock Siong Teo  Danning Gu, Matthew John Lang, Young‐Tae Chang, Zhaochao Xu, Xiaogang Liu, “A Photoexcitation‐Induced Twisted Intramolecular Charge Shuttle”, Angew. Chem. Int. Ed., 2019, 58, 7073-7077 [DOI: 10.1002/anie.201902766](https://doi.org/10.1002/anie.201902766).
+
 * Kangning Cao, Siu Min Tan, **Richmond Lee**, Songwei Yang, Hongshao Jia, Xiaowei Zhao, Baokun Qiao, Zhiyong Jiang “Catalytic Enantioselective Addition of Prochiral Radicals to Vinylpyridines”, J. Am. Chem. Soc., 2019, 141, 5437-5443 [DOI: 10.1021/jacs.9b00286](https://doi.org/10.1021/jacs.9b00286).
 
 * Yicen Ge, Xi-Yang Cui, Siu Min Tan, Huan Jiang, Jingyun Ren, Nicholas Lee, **Richmond Lee**, Choon-Hong Tan, “Enantioconvergent Synthesis of Tertiary Cyclic Allylboronates Using (Guanidine) copper Complex‐Catalyzed Allylic Borylation”, Angew. Chem. Int. Ed., 2019, 58, 2382-2386 [DOI: 10.1002/anie.201813490](https://doi.org/10.1002/anie.201813490). 

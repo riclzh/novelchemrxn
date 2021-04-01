@@ -12,6 +12,8 @@ Go to section:
 
 ## UOW
 
+* Wei-Guo Jia, Xue-Ting Zhi, Xiao-Dong Li, Jun-Peng Zhou, Rui Zhong, Haibo Yu, and **Richmond Lee**, "Postsynthetic Modification of Half-Sandwich Ruthenium Complexes by Mechanochemical Synthesis", Inorg. Chem., ASAP [DOI: 10.1021/acs.inorgchem.1c00059](https://doi.org/10.1021/acs.inorgchem.1c00059). Paper [here](/files/papers/acs.inorgchem.1c00059.pdf). 
+
 * Wenchao Chen, Esther Cai Xia Ang, Siu Min Tan, Zhijie Chua, Jingyun Ren, Ziqi Yang, Bo Teng, **Richmond Lee**, Haihua Lu, Choon-Hong Tan, "Enantioselective Addition-Alkylation of α,β-Unsaturated Carbonyls via Bisguanidinium Silicate Ion Pair Catalysis", J. Am. Chem. Soc., 2020, 142, 19065–19070 [DOI: 10.1021/jacs.0c00183](https://doi.org/10.1021/jacs.0c00183). Paper [here](/files/papers/jacs.0c00183.pdf).
 
 

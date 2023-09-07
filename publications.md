@@ -15,10 +15,6 @@ Go to section:
 **Our art was selected as Front Cover!**
 ![image](/files/cc_cover.png)
 
-<p align="center">
-  <img src="/files/cc_cover.png" width="400">
-</p>
-
 * Sanliang Li, Dong Tian, Xiaowei Zhao, Yanli Yin, **Richmond Lee**, Zhiyong Jiang, “Visible light−driven copper(II) catalyzed aerobic oxidative cleavage of carbon−carbon bonds: a combined experimental and theoretical study” Org. Chem. Front., 2022, 9, 6229-6239 [DOI: 10.1039/D2QO01264B]. Paper [here](/files/papers/d2qo01264b.pdf). 
 
 *	Xia Song, Kelin Wang, Lian Xue, Haibo Yu, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Coupling Partner-Dependent Unsymmetrical C−H Functionalization Reactions of N-Phenoxyacetamide Leading to Sophisticated Spirocyclic Scaffolds”, Org. Chem. Front., 2022, 9, 4583-4590 [DOI: 10.1039/D2QO00851C]. Paper [here](/files/papers/d2qo00851c_free.pdf). 

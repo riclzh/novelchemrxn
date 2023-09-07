@@ -12,7 +12,7 @@ Go to section:
 
 ## UOW
 * Junbo Chen, Haibo Yu, Davin Tan, **Richmond Lee**, “Guanidine-based biomimetic hydrides for carbon dioxide reduction” Chem. Commun., 2023, 59, 5201-5204 [DOI: 10.1039/D3CC00475A]. Paper [here](/files/papers/d3cc00475a.pdf). Our art was selected as Front Cover:
-<embed src="/files/papers/d3cc90141f.pdf" type="application/pdf">
+<embed src="/files/papers/d3cc90141f.pdf" type="application/pdf" width="100%">
 
 * Sanliang Li, Dong Tian, Xiaowei Zhao, Yanli Yin, **Richmond Lee**, Zhiyong Jiang, “Visible light−driven copper(II) catalyzed aerobic oxidative cleavage of carbon−carbon bonds: a combined experimental and theoretical study” Org. Chem. Front., 2022, 9, 6229-6239 [DOI: 10.1039/D2QO01264B]. Paper [here](/files/papers/d2qo01264b.pdf). 
 

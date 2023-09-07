@@ -11,12 +11,13 @@ Go to section:
 * [MSc/BAppSc: 2009-2013](#kaust-nus)
 
 ## UOW
-* Junbo Chen, Haibo Yu, Davin Tan, **Richmond Lee**, “Guanidine-based biomimetic hydrides for carbon dioxide reduction” Chem. Commun., 2023, 59, 5201-5204 [DOI: 10.1039/D3CC00475A]. Paper [here](/files/papers/d3cc00475a.pdf). Our art was selected as Front Cover:
-<embed src="/files/papers/d3cc90141f.pdf" type="application/pdf" width="100%">
+* Junbo Chen, Haibo Yu, Davin Tan, **Richmond Lee**, “Guanidine-based biomimetic hydrides for carbon dioxide reduction” Chem. Commun., 2023, 59, 5201-5204 [DOI: 10.1039/D3CC00475A]. Paper [here](/files/papers/d3cc00475a.pdf). **Our art was selected as Front Cover!**
+<object data="/files/papers/d3cc90141f.pdf" type="application/pdf" width="100%">
+</object>
 
 * Sanliang Li, Dong Tian, Xiaowei Zhao, Yanli Yin, **Richmond Lee**, Zhiyong Jiang, “Visible light−driven copper(II) catalyzed aerobic oxidative cleavage of carbon−carbon bonds: a combined experimental and theoretical study” Org. Chem. Front., 2022, 9, 6229-6239 [DOI: 10.1039/D2QO01264B]. Paper [here](/files/papers/d2qo01264b.pdf). 
 
-*	Xia Song, Kelin Wang, Lian Xue, Haibo Yu, Xinying Zhang, Richmond Lee*, Xuesen Fan*, “Coupling Partner-Dependent Unsymmetrical C−H Functionalization Reactions of N-Phenoxyacetamide Leading to Sophisticated Spirocyclic Scaffolds”, Org. Chem. Front., 2022, 9, 4583-4590 [DOI: 10.1039/D2QO00851C]. Paper [here](/files/papers/d2qo00851c_free.pdf). 
+*	Xia Song, Kelin Wang, Lian Xue, Haibo Yu, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Coupling Partner-Dependent Unsymmetrical C−H Functionalization Reactions of N-Phenoxyacetamide Leading to Sophisticated Spirocyclic Scaffolds”, Org. Chem. Front., 2022, 9, 4583-4590 [DOI: 10.1039/D2QO00851C]. Paper [here](/files/papers/d2qo00851c_free.pdf). 
 
 *	**Richmond Lee**, Chi Bong Eric Chao, Xu Ban, Siu Min Tan, Haibo Yu, Christopher J.T. Hyland, Choon-Hong Tan, “Direct SN2 or SN2X Manifold─Mechanistic Study of Ion-Pair-Catalyzed Carbon(sp3)–Carbon(sp3) Bond Formation”, J. Org. Chem., 2022, 87, 4029–4039 [DOI: 10.1021/acs.joc.1c02782]. Preprint version: ChemRxiv, 2021, https://doi.org/10.26434/chemrxiv-2021-n9hrb. Paper [here](/files/papers/acs.joc.1c02782.pdf). 
 

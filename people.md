@@ -13,7 +13,7 @@ Richmond completed his PhD at the Australian National University under Australia
 Postgraduate students
 ---
 * Amin Hosseinbaggi (PhD, started 2023 autumn)
-* Kimia Rahamannia (PhD, started 2022 spring)
+* Kimia Rahmannia (PhD, started 2022 spring)
 * Marzieh Bahmani (PhD, started 2022 autumn)
 * Eric Chao (PhD, started 2020)
 * Mahesh Timilsina (graduated MSc, 2021)

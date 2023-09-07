@@ -5,6 +5,4 @@ title: "New published paper - Guanidine-based biomimetic hydrides for carbon dio
 
 You can read more about the paper [here](https://github.com/riclzh/novelchemrxn/blob/master/files/papers/d3cc00475a.pdf).
 
-Cover art:
-
-![image](/files/papers/cc_cover.png)
+Cover art [here](https://github.com/riclzh/novelchemrxn/blob/master/files/papers/d3cc00475a.pdf).

@@ -25,7 +25,7 @@ Go to section:
 
 *	Xu Ban, Yifan Fan, Tuan-Khoa Kha, **Richmond Lee**, Choon Wee Kee, Zhiyong Jiang, Choon-Hong Tan, “Pentanidium-Catalyzed Direct Assembly of Vicinal All-Carbon Quaternary Stereocenters through C(sp3)–C(sp3) Bond Formation”, CCS Chem., 2021, 3, 2192–2200 [DOI: 10.31635/ccschem.021.202101013]. Paper [here](/files/papers/ccschem.021.202101013.pdf).
 
-* Wei-Guo Jia, Xue-Ting Zhi, Xiao-Dong Li, Jun-Peng Zhou, Rui Zhong, Haibo Yu, and **Richmond Lee**, "Postsynthetic Modification of Half-Sandwich Ruthenium Complexes by Mechanochemical Synthesis", Inorg. Chem., ASAP [DOI: 10.1021/acs.inorgchem.1c00059](https://doi.org/10.1021/acs.inorgchem.1c00059). Paper [here](/files/papers/acs.inorgchem.1c00059.pdf). 
+* Wei-Guo Jia, Xue-Ting Zhi, Xiao-Dong Li, Jun-Peng Zhou, Rui Zhong, Haibo Yu, and **Richmond Lee**, "Postsynthetic Modification of Half-Sandwich Ruthenium Complexes by Mechanochemical Synthesis", Inorg. Chem., 2021, 60, 4313–4321 [DOI: 10.1021/acs.inorgchem.1c00059](https://doi.org/10.1021/acs.inorgchem.1c00059). Paper [here](/files/papers/acs.inorgchem.1c00059.pdf). 
 
 * Wenchao Chen, Esther Cai Xia Ang, Siu Min Tan, Zhijie Chua, Jingyun Ren, Ziqi Yang, Bo Teng, **Richmond Lee**, Haihua Lu, Choon-Hong Tan, "Enantioselective Addition-Alkylation of α,β-Unsaturated Carbonyls via Bisguanidinium Silicate Ion Pair Catalysis", J. Am. Chem. Soc., 2020, 142, 19065–19070 [DOI: 10.1021/jacs.0c00183](https://doi.org/10.1021/jacs.0c00183). Paper [here](/files/papers/jacs.0c00183.pdf).
 

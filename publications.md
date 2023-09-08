@@ -11,6 +11,8 @@ Go to section:
 * [MSc/BAppSc: 2009-2013](#kaust-nus)
 
 ## UOW
+* Philip J. Chevis, Chi Bong Eric Chao, Christopher Richardson, Christopher J. T. Hyland, **Richmond Lee**, Stephen G. Pyne, “Diastereoselective Petasis-Borono-Mannich Crotylation Reactions of Chiral α-Heteroatom (F, OBz, OH) Aldehydes: Rapid Access to Valuable Mono and Bicyclic Heterocyclic Scaffolds” Chem. Eur. J., 2023, e202301701 [DOI:10.1002/chem.202301701]. Paper [here](/files/papers/cej2023-Chevis.pdf).
+
 * Junbo Chen, Haibo Yu, Davin Tan, **Richmond Lee**, “Guanidine-based biomimetic hydrides for carbon dioxide reduction” Chem. Commun., 2023, 59, 5201-5204 [DOI: 10.1039/D3CC00475A]. Paper [here](/files/papers/d3cc00475a.pdf).
 **Our art was selected as Front Cover!**
 ![image](/files/cc_cover.png)

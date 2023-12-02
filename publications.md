@@ -42,7 +42,7 @@ Go to section:
 
 *	Weijie Chi, Qingkai Qi, **Richmond Lee**, Zhaochao Xu, Xiaogang Liu, “A Unified Push–Pull Model for Understanding the Ring-Opening Mechanism of Rhodamine Dyes”, J. Chem. Phys. C, 2020, 124, 3793-3801 [DOI: 10.1021/acs.jpcc.9b11673](https://doi.org/10.1021/acs.jpcc.9b11673).
 
-*	Xia SongBao, Nguyen Do Doan, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Complementary C–H Functionalization Mode of Benzoylacetonitriles: Computer-Augmented Study of a Regio- and Stereoselective Synthesis of Functionalized Benzofulvenes”, Org. Lett., 2020, 22, 1, 46-51 [DOI: 10.1021/acs.orglett.9b03434](https://doi.org/10.1021/acs.orglett.9b03434).
+*	Xia Song, Bao Nguyen Do Doan, Xinying Zhang, **Richmond Lee**, Xuesen Fan, “Complementary C–H Functionalization Mode of Benzoylacetonitriles: Computer-Augmented Study of a Regio- and Stereoselective Synthesis of Functionalized Benzofulvenes”, Org. Lett., 2020, 22, 1, 46-51 [DOI: 10.1021/acs.orglett.9b03434](https://doi.org/10.1021/acs.orglett.9b03434).
 
 *	Xin Zhang, Jingyun Ren, Siu Min Tan, Davin Tan, **Richmond Lee**, Choon-Hong Tan, "An Enantioconvergent Halogenophilic Nucleophilic Substitution (SN2X) Reaction", Science, 2019, 363, 400-404 [DOI: 10.1126/science.aau7797](https://doi.org/10.1126/science.aau7797).
     * This work was highlighted in [organic-chemistry.org](https://www.organic-chemistry.org/Highlights/2020/10February.shtm) contributed by Douglass Taber. 

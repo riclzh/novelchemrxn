@@ -3,8 +3,8 @@ layout: post
 title: "Passing away of Bao Nguyen Do Doan"
 ---
 
-I am very saddened to find out only recently about the sudden passing of my former RA/student Nguyen in a traffic accident in Tuscon, AZ, Dec 2021. 
-Nguyen was a passionate chemist, smart and dedicated. He had to overcome a lot of adversity to study in Singapore and obtained a First Class Honors from NTU. 
+I am very saddened to find out only recently about the sudden passing of my former RA/student Nguyen in a traffic accident in Tuscon, AZ, in Dec 2021. 
+Nguyen was a passionate chemist, smart and dedicated. He had to overcome a lot of adversity to study in Singapore and obtained a First Class Honours from NTU. 
 
 He was in the USA to pursue a postgraduate degree and PhD and I was in email contact with him about a month before his fatal accident. I only found out from online news regarding this tragic outcome about 2 years later. 
 

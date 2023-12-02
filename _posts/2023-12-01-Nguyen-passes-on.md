@@ -12,4 +12,4 @@ Ngyuen was in my group for a year and learned the ropes of computational chemist
 
 My condolences to his family and may he rest in peace.
 
-Sadly, this is my tribute and last recommendation letter to him: [here](https://github.com/riclzh/novelchemrxn/blob/master/files/papers/nguyen.pdf).
+Sadly, this is my tribute and last recommendation letter to him [here](https://github.com/riclzh/novelchemrxn/blob/master/files/papers/nguyen.pdf).

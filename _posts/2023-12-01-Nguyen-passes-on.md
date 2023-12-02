@@ -10,4 +10,4 @@ He was in the USA to pursue a postgraduate degree and PhD and I was in email con
 
 Ngyuen was in my group for a year and learned the ropes of computational chemistry very quickly. Together, we co-authored a paper in which he picked the title adding "Computer Augmented Study" to emphasize the importance of computational studies complementing experimental results. His contributions to this work were immense. 
 
-My condolences to his family and may he rest in peace. Sadly, this is my [tribute and last recommendation letter to him]https://github.com/riclzh/novelchemrxn/blob/master/files/papers/nguyen.pdf).
+My condolences to his family and may he rest in peace. Sadly, this is my [tribute and last recommendation letter to him](https://github.com/riclzh/novelchemrxn/blob/master/files/papers/nguyen.pdf).
